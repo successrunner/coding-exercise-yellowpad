@@ -38,7 +38,7 @@ Spend **no more than 2 hours** on this. We value quick iteration and resourceful
    - Your approach
    - Challenges you encountered
    - Any AI tools you used
-4. Email your Loom + code/repo link to: `your-email@yellowpad.ai`
+4. Email your Loom + code/repo link to: `ananda@yellowpad.ai`
 
 ## 💵 Compensation
 We will compensate you at **$70/hour** for up to 2 hours of work
